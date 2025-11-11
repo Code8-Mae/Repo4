@@ -21,4 +21,4 @@ git push
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="300"/>
 
 ### Adjuntamos una imagen desde el repositorio
-<img src="/gato_tresPatas_raro" width="500"/>
+<img src="/imagen_gato_tresPatas.svg" width="500"/>
