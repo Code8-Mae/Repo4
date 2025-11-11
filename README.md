@@ -17,5 +17,8 @@ git add Doc1.txt
 git commit -m "Nuevo Commit de Alexis"
 git push
 ```
-### Adjuntamos una imagen
+### Adjuntamos una imagen desde la web
 <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="300"/>
+
+### Adjuntamos una imagen desde el repositorio
+<img src="/gato_tresPatas_raro" width="500"/>
